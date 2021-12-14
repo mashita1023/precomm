@@ -1,0 +1,3 @@
+[submodule "precomm-api"]
+	path = precomm-api
+	url = git@github.com:mashita1023/precomm-api.git
